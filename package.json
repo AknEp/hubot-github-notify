@@ -1,7 +1,7 @@
 {
   "name": "hubot-github-notify",
   "description": "Hubot script to notify users of comment mentions, issues/PRs assignments",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "author": "Francesco Pontillo <francescopontillo@gmail.com>",
   "license": "Apache-2.0",
   "keywords": [
