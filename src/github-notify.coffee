@@ -226,8 +226,7 @@ private_messages = (robot, users, message) ->
 #
 # Returns nothing.
 private_message = (robot, user, message) ->
-  user = get_pm_user user
-  robot.send {user: user}, message
+  robot.send {user: user, room: user}, message
 
 # Delete the reply_to information from a given User,
 # so that it is possible to force a private message on send.
