@@ -13,10 +13,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/frapontillo/hubot-github-notify.git"
+    "url": "git://github.com/AknEp/hubot-github-notify.git"
   },
   "bugs": {
-    "url": "https://github.com/frapontillo/hubot-github-notify/issues"
+    "url": "https://github.com/AknEp/hubot-github-notify/issues"
   },
   "dependencies": {
     "coffee-script": "~1.6",
